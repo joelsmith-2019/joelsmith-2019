@@ -17,7 +17,7 @@ A few languages and technologies I am interested in are:
 ***
 
 # Capstone Project
-For my senior capstone project I am developing a cloud-hosted auction applicationthat utilizes Dapr, a Spring Boot Microservice, a Rust Microservice, MongoDB, PostgreSQL, and Redis. More information can be found at the following repo: REPO_LINK
+For my senior capstone project I am developing a cloud-hosted auction applicationthat utilizes Dapr, a Spring Boot Microservice, a Rust Microservice, MongoDB, PostgreSQL, and Redis. The repositories can be found at the following organization: https://github.com/orgs/the-auction-games/repositories
 
 ***
 
