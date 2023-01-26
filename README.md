@@ -1,26 +1,29 @@
 # About Me
-Hello, my name is Joel, and I am a college student in my senior year working towards my bachelor of science in software development. Since middle school, I have been programming Minecraft servers and exploring computers in general. This interest in technology has continued and led me to pursue my current degree at Grand Canyon University. As of now, I am actively looking for an opportunity to broaden my skills and perspective in the software field.
-
-***
+As a senior pursuing my Bachelor of Science in Software Development at Grand Canyon University, I am eager to apply my knowledge and skills in a professional setting. My passion for software development has been a driving force in my education and I am excited to continue learning and growing in this field. I am currently seeking an opportunity to not only gain hands-on experience in the software industry and expand upon my technical skillset, but to also provide meaningful value to a development team.
 
 # Interests
-A few languages and technologies I am interested in are:
-- Java
-- Rust
-- Dapr
-- JavaScript
-- Angular
+A few languages and technologies I enjoy working with:
+- Java (My personal favorite)
+- JavaScript / TypeScript
+- Angular & React
 - Python
-- Blockchains
+- Rust
 - Microservices
-
-***
+- Blockchains
 
 # Capstone Project
-For my senior capstone project I am developing a cloud-hosted auction application that utilizes Dapr, a Spring Boot Microservice, a Rust Microservice, MongoDB, PostgreSQL, and Redis. The documentation and code repositories can be found at the following link: https://github.com/the-auction-games
+For my senior capstone project, I am developing an auction application utilizing microservice architecture. 
 
-***
+Tools and technologies:
+- Dapr (An API for intercommunication between services and data storage devices)
+- Java with Spring Boot (Microservices for both Auctions & Activity)
+- Rust with the Rocket API (Microservice for User Validation)
+- JavaScript/TypeScript with Angular (Front-End Microservice)
+- Amazon Web Services
+
+For more information and access to the codebase, please visit my Github organization at https://github.com/the-auction-games.
 
 # Contact Me
-Feel free to reach out and contact me on LinkedIn.  
+Please do not hesitate to contact me on Linkedin for any professional inquiries.
+
 LinkedIn: https://www.linkedin.com/in/joelsmith-2019/
