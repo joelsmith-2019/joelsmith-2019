@@ -18,7 +18,7 @@ Tools and technologies:
 - Dapr (An API for intercommunication between services and data storage devices)
 - Java with Spring Boot (Microservices for both Auctions & Activity)
 - Rust with the Rocket API (Microservice for User Validation)
-- Session Microservice (API for tracking active user sessions)
+- JavaScript/TypeScript with Express (Microservice for User Sessions)
 - JavaScript/TypeScript with Angular (Front-End Microservice)
 - Amazon Web Services (AWS)
 
