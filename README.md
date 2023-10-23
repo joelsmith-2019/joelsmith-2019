@@ -2,7 +2,7 @@
 
 # Interests
 A few languages and technologies I enjoy working with:
-- Java (My personal favorite)
+- Java
 - JavaScript / TypeScript
 - Angular & React
 - Ionic
