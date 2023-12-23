@@ -7,7 +7,7 @@
 ### About Me
 
 - 💻 Result-driven software developer working at American Airlines and contributing to Juno Network.
-- 🌐 Experienced in backend services, blockchains, game development, and some front end development.
+- 🏗️ Experienced in backend services, blockchains, game development, and some front end development.
 - 🚀 Passionate about exploring new technologies and creating impactful projects.
 
 ---
