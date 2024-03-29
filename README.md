@@ -6,7 +6,7 @@
 
 ### About Me
 
-- 💻 Result-driven software developer working at American Airlines and contributing to Juno Network.
+- 💻 Result-driven software developer working at Strangelove.
 - 🏗️ Experienced in backend services, blockchains, game development, and some front end development.
 - 🚀 Passionate about exploring new technologies and creating impactful projects.
 
