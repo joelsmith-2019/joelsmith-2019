@@ -34,11 +34,7 @@ Below are some of the latest technologies I have been working with:
 
 ### GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=joelsmith-2019&show_icons=true&theme=tokyonight&rank_icon=github)
-
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=joelsmith-2019&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=joelsmith-2019&layout=compact&theme=tokyonight)
 
 ---
 
