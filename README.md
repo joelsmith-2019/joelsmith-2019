@@ -34,7 +34,7 @@ Below are some of the latest technologies I have been working with:
 
 ### GitHub Stats
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=joelsmith-2019&theme=tokyonight)
+[![GitHub Streak](https://streak-stats.demolab.com?user=joelsmith-2019&theme=tokyonight&border_radius=4)](https://git.io/streak-stats)
 
 ---
 
