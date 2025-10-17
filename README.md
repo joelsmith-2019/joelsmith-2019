@@ -2,16 +2,6 @@
 <h3 align="center">Howdy, I'm Joel 👋</h3>
 <br>
 
----
-
-### About Me
-
-- 💻 Result-driven software developer working at Strangelove.
-- 🏗️ Experienced in backend services, blockchains, game development, and some front end development.
-- 🚀 Passionate about exploring new technologies and creating impactful projects.
-
----
-
 ### Languages & Tools
 Below are some of the latest technologies I have been working with:  
 <br>
